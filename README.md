@@ -10,10 +10,10 @@
 This is the default community health files repository for Codidact projects.
 
 ## Table of Contents
-1. Why does this repository exist?
-1. Community Code of Conduct
-1. Contribution Guidelines
-1. Security Vulnerability Disclosure Guidelines
+1. [Why does this repository exist?](https://github.com/codidact/.github#why-does-this-repository-exist)
+1. [Community Code of Conduct](https://github.com/codidact/.github#community-code-of-conduct)
+1. [Contribution Guidelines](https://github.com/codidact/.github#contribution-guidelines)
+1. [Security Vulnerability Disclosure Guidelines](https://github.com/codidact/.github#security-vulnerability-disclosure-guidelines)
 
 ## Why Does This Repository Exist?
 
@@ -39,21 +39,21 @@ We obviously cannot afford the risk of juggling different versions of
 files containing critical information like that. That is why this
 repository exists.
 
-## Community Code of Conduct
+## [Community Code of Conduct](https://github.com/codidact/.github/blob/master/CODE_OF_CONDUCT.md)
 
-The current Codidact community code of conduct may be found
+The original Codidact community code of conduct may be found
 [here](https://github.com/codidact/core/wiki/Codidact-Code-of-Conduct).
-It is in the process of being transcribed to this repository to serve
-as a master record of the official policies and procedures for interacting
+It has been transcribed to this repository to serve as a master
+record of the official policies and procedures for interacting
 with and amongst the Codidact community.
 
-## Contribution Guidelines
+## [Contribution Guidelines](https://github.com/codidact/.github/blob/master/CONTRIBUTING.md)
 
-The current contribution guidelines may be found
+The original contribution guidelines may be found
 [here](https://github.com/codidact/core/blob/develop/CONTRIBUTING.md),
-but unfortunately they are not as visible as would be ideal, and the Core
-project is the only project to which the guidelines are currently being
-displayed when contributors open new issues and pull requests.
+but unfortunately they were not as visible as would be ideal, and the
+Core project is the only project where the guidelines were being
+displayed when contributors opened new issues and pull requests.
 
 For that reason, this repository will serve as the home of the official
 Codidact community contribution guidelines.
@@ -72,3 +72,16 @@ with a formal organizational hierarchy.
 
 Updates to the project security policy will be made public as soon as they
 are available.
+
+## Community
+
+Questions regarding the Codidact contribution guidelines 
+should be directed to Codidact Team Lead [ArtOfCode](https://github.com/ArtOfCode-),
+Codidact Tech Lead [Marc Ranolfi](https://github.com/ranolfi), or
+Documentation Lead [Monica Cellio](https://github.com/cellio).
+
+Outright mistakes in the documentation should be blamed on
+[@jflopezfernandez](https://github.com/jflopezfernandez),
+who upon hearing about them will be disappointed but not
+surprised, and who will make haste to correct them as
+expeditiously as humanly possible.
