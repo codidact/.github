@@ -10,9 +10,34 @@
 This is the default community health files repository for Codidact projects.
 
 ## Table of Contents
+1. Why does this repository exist?
 1. Community Code of Conduct
 1. Contribution Guidelines
 1. Security Vulnerability Disclosure Guidelines
+
+## Why Does This Repository Exist?
+
+As the name suggests, this repository is meant to hold the default
+community health files for the Codidact organization. These default
+files will be used for any public repository that does not already
+contain one of these files. For example, while the Codidact Core
+project has a `CONTRIBUTING.md` file, the Co-Design project does not.
+With this repo, anyone who goes to open an issue or a pull request
+will now see a link to the Codidact contribution guidelines, even
+though the Co-Design project would normally need its own contributing
+guidelines file.
+
+We can leverage this functionality to use the repository as a single
+source of truth for key project files without needed to resort to
+submodules, scripts, or triggers. This is absolutely essential when
+you consider that one of the files supported by this functionality
+is the `SECURITY.md` file, in which we can delineate the process by
+which security researchers and developers may discretely (but quickly)
+report security vulnerabilities in our
+[technology stack](https://github.com/codidact/docs/wiki/Technology-Stack).
+We obviously cannot afford the risk of juggling different versions of
+files containing critical information like that. That is why this
+repository exists.
 
 ## Community Code of Conduct
 
