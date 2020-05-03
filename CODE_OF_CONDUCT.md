@@ -17,6 +17,6 @@ _definitely_ not okay:
 Always be constructive, especially when giving feedback. Always presume that others
 are acting with good intent.
 
-If you see anything that appears to be a violation of this Code, flag or otherwise
-report it. We take reports seriously, and although we may not be able to follow up  
-with you, we will take any necessary action. We'll keep your identity private.
+If you see anything that appears to be a violation of this Code, flag it or email us 
+at info@codidact.org. We take reports seriously, and although we may not be able to
+follow up with you, we will take any necessary action. We'll keep your identity private.
