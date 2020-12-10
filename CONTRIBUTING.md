@@ -10,7 +10,7 @@ project, and that means the code too.
  - **Bugs** are reported here on GitHub. Have a look at the open
  issues tagged `type: bug` to find something that needs fixing.
  - **Requests for features** are first discussed on our
- [forum](https://forum.codidact.org/) to create consensus around their
+ [meta site](https://meta.codidact.com/) to create consensus around their
 specification. Once consensus is built, a card will be added to our
 [MVP GitHub project](https://github.com/codidact/core/projects/1)
 as a To Do item.
